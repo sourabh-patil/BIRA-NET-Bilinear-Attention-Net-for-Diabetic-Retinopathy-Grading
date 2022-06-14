@@ -1,0 +1,2 @@
+# BIRA-NET-Bilinear-Attention-Net-for-Diabetic-Retinopathy-Grading
+This is a PyTorch implementation of BIRA-NET paper. You can find it's official implementation also but available repository does not have whole code. They have given only RA part of the model. There is one discrpancy in my code. I could not match the exact model structure after the part of outer product which is given in the last paragraph of section 3.3.
